@@ -1,0 +1,6 @@
+{
+    "access_token": "access token for the user",
+    "token_type": "type of token",
+    "expires_in": "time in seconds that the token remains valid",
+    "refresh_token": "refresh token to use to acquire a new access token"
+}

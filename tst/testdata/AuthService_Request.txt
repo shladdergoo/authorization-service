@@ -1,0 +1,8 @@
+﻿GET http://localhost:5000/api/auth?code=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Im9PdmN6NU1fN3AtSGpJS2xGWHo5M3VfVjBabyJ9.eyJhdWkiOiJiMzQwZDQ0Mi0zMDJiLTQ1MGEtYjdiMS1mZTE4NTBhYWRjNWIiLCJuYW1laWQiOiIxZWFmZTE5ZS01ZGQ3LTQ4MmMtODJmYi03OGUyMzE0ZTYxNDciLCJzY3AiOiJ2c28uYnVpbGRfZXhlY3V0ZSB2c28ucmVsZWFzZV9tYW5hZ2UgdnNvLmF1dGhvcml6YXRpb25fZ3JhbnQiLCJpc3MiOiJhcHAudnNzcHMudmlzdWFsc3R1ZGlvLmNvbSIsImF1ZCI6ImFwcC52c3Nwcy52aXN1YWxzdHVkaW8uY29tIiwibmJmIjoxNTI4ODcxNDgwLCJleHAiOjE1Mjg4NzIzODB9.RSQ60Om_qbAC8yiJZliWn7V8mZ3L8tCSnC26GoSEuYv_jilcBvmPQoKCKjH5fToD2-IlZrYiaHH4R0kW7_Eq9RiSLbMhEBUwNrdWG9SnWnwCJ6NL8wK-RsP6lsvTVCcXOM_gFHyW1jdZmzuwWR8kWKZ_x7-Q3QGCd890gGWy6Rk-Z8TKBTk5zZrs9qx4mkHzlDXgCkLRYW31OwOrzmF5lFv29D87C7bKJ6MKapCkIXXw5hjxr-L-TurZ9dG-1xJra3-MefZQHK0DVLXByDsBo7DjBaYtiGxgxhaX7atiykAgz065XWZlU5_yOjR2iscM2KBhn2Wzn-A9ySSu6ChCOw&state=SolutionDeployConsole HTTP/1.1
+Host: doesnotexistredirecturl
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
